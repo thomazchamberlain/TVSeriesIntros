@@ -4,6 +4,7 @@ TVSeriesIntros
 The codebase for a tool that automatically grabs the intro scenes from a tv series and creates a single video.
 
 Requires FFMpeg/Avconv and required libraries.
+Maven.
 
 How It Works
 =============
