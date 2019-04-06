@@ -13,3 +13,5 @@ How It Works
 3. Fingerprint all episodes listening for the theme tune.
 4. Slice the video files from start to time where match was found for fingerprint.
 5. Joing all output files together.
+
+Steps 1 & 2 are currently not implemented and instead a hardcoded mp3 of the themetune is used. Feel free to PR it.
