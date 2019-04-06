@@ -15,3 +15,7 @@ How It Works
 5. Joing all output files together.
 
 Steps 1 & 2 are currently not implemented and instead a wav of the themetune is used. Feel free to PR it.
+
+Here is some output of the video https://www.youtube.com/watch?v=wCdE_NCNMrI&t=322s
+
+Also I just wrote this all out in a couple of evenings whilst watching The Office haha... It totally works well but the code is garbage. I will refactor it at some point. I'll probably launch it as service in AWS when I'm finished.
